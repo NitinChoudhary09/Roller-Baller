@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{980D4277-BC51-547E-01C8-017CFBF58245}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RoadSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Sphere.cs" Line="76" Column="81" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="18" Column="35" />
+      <File FileName="Assets/Scripts/RoadSpawner.cs" Line="17" Column="26" />
+      <File FileName="Assets/Scripts/Cube.cs" Line="10" Column="41" />
+      <File FileName="Assets/Scripts/Collector.cs" Line="12" Column="48" />
+      <File FileName="Assets/Scripts/ScoreCount.cs" Line="28" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
